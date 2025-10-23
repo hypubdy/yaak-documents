@@ -1,0 +1,14 @@
+type: workspace
+model: workspace
+id: wk_NFmTtoSETC
+createdAt: 2025-10-23T02:24:32.637456600
+updatedAt: 2025-10-23T02:24:32.637456800
+authentication: {}
+authenticationType: null
+description: ''
+headers: []
+name: Yaak
+encryptionKeyChallenge: null
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0

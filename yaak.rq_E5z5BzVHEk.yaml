@@ -1,0 +1,74 @@
+type: http_request
+model: http_request
+id: rq_E5z5BzVHEk
+createdAt: 2025-10-23T02:29:17.750278800
+updatedAt: 2025-10-23T02:30:14.056827200
+workspaceId: wk_NFmTtoSETC
+folderId: null
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: ^accept
+  value: application/json^
+  id: null
+- enabled: true
+  name: ^accept-language
+  value: vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5^
+  id: null
+- enabled: true
+  name: ^authorization
+  value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQG1wdGVzdC52biIsIm5hbWUiOiJBZG1pbmlzdHJhdG9yIiwidGVuYW50X2lkIjoiNjhiYTk0OWE4YTVlYTkyNzhkM2YxZTg2IiwidXNlcl9pZCI6IjY4YmE5NDliOGE1ZWE5Mjc4ZDNmMWU4OCIsInJvbGUiOiJhZG1pbmlzdHJhdG9yIiwiYWdlbnRfaWQiOiIyNjE5IiwiZ3JvdXBfaWQiOi0xLCJvcmdhbml6ZV9pZCI6LTEsInBob25lIjpudWxsLCJhY2Nlc3MiOnt9LCJhZG1pbiI6ZmFsc2UsImlhdCI6MTc2MDk0NTQxNiwiZXhwIjoxNzYxMjA0NjE2fQ.8tz5NGGgxVTh7bH54-LGu3ZHb-byPvvlIlbOWnsm_ys^
+  id: null
+- enabled: true
+  name: ^origin
+  value: https://web-staging.zenify.vn^
+  id: null
+- enabled: true
+  name: ^priority
+  value: u=1, i^
+  id: null
+- enabled: true
+  name: ^referer
+  value: https://web-staging.zenify.vn/^
+  id: null
+- enabled: true
+  name: ^sec-ch-ua
+  value: ^\^Google
+  id: null
+- enabled: true
+  name: ^sec-ch-ua-mobile
+  value: ?0^
+  id: null
+- enabled: true
+  name: ^sec-ch-ua-platform
+  value: ^\^Windows^^^
+  id: null
+- enabled: true
+  name: ^sec-fetch-dest
+  value: empty^
+  id: null
+- enabled: true
+  name: ^sec-fetch-mode
+  value: cors^
+  id: null
+- enabled: true
+  name: ^sec-fetch-site
+  value: same-site^
+  id: null
+- enabled: true
+  name: ^user-agent
+  value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36^
+  id: null
+method: GET
+name: Get personal zalo connection
+sortPriority: -1761186557748.0
+url: https://zalop-staging.zenify.vn/zalo/get-zalo-connection/68f5ed8400a3a3eb070a7a36
+urlParameters:
+- enabled: true
+  name: user_id
+  value: 68ba949b8a5ea9278d3f1e88^
+  id: null
