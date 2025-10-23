@@ -2,7 +2,7 @@ type: http_request
 model: http_request
 id: rq_E5z5BzVHEk
 createdAt: 2025-10-23T02:29:17.750278800
-updatedAt: 2025-10-23T02:30:14.056827200
+updatedAt: 2025-10-23T02:39:55.731107700
 workspaceId: wk_NFmTtoSETC
 folderId: null
 authentication: {}
@@ -66,7 +66,7 @@ headers:
 method: GET
 name: Get personal zalo connection
 sortPriority: -1761186557748.0
-url: https://zalop-staging.zenify.vn/zalo/get-zalo-connection/68f5ed8400a3a3eb070a7a36
+url: ${[ HOST ]}/zalo/get-zalo-connection/68f5ed8400a3a3eb070a7a36
 urlParameters:
 - enabled: true
   name: user_id

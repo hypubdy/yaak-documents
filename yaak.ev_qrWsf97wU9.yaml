@@ -1,0 +1,17 @@
+type: environment
+model: environment
+id: ev_qrWsf97wU9
+workspaceId: wk_NFmTtoSETC
+createdAt: 2025-10-23T02:24:32.840112700
+updatedAt: 2025-10-23T02:38:55.053719900
+name: Global Variables
+public: true
+base: true
+parentModel: workspace
+parentId: null
+variables:
+- enabled: true
+  name: HOST
+  value: https://zalop-staging.zenify.vn
+  id: 8CIcHRMwqX
+color: null
