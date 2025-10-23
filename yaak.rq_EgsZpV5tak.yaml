@@ -1,0 +1,82 @@
+type: http_request
+model: http_request
+id: rq_EgsZpV5tak
+createdAt: 2025-10-23T02:46:13.823525200
+updatedAt: 2025-10-23T02:46:26.096670700
+workspaceId: wk_NFmTtoSETC
+folderId: null
+authentication: {}
+authenticationType: null
+body: {}
+bodyType: null
+description: ''
+headers:
+- enabled: true
+  name: accept
+  value: application/json
+  id: null
+- enabled: true
+  name: accept-language
+  value: vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5
+  id: null
+- enabled: true
+  name: authorization
+  value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InR1bnZAemVuaWZ5dGVzdC52biIsIm5hbWUiOiJ0dSIsInRlbmFudF9pZCI6IjY0NmFlOWNmZmUzMmI0MzQyNmY0NTE2NSIsInVzZXJfaWQiOiI2N2Q3ZjE4NjUzNGIyYjM2Y2YxMGMyMzAiLCJyb2xlIjoiYWRtaW5pc3RyYXRvciIsImFnZW50X2lkIjoiMTAwNCIsImdyb3VwX2lkIjoyLCJvcmdhbml6ZV9pZCI6LTEsImFjY2VzcyI6e30sImFkbWluIjp0cnVlLCJpYXQiOjE3NjExODc1NTQsImV4cCI6MTc2MTQ0Njc1NH0.LFOtshGhFASZoEDxXE1UvCaVwRUujma8c_yfPrxzm7Q
+  id: null
+- enabled: true
+  name: cache-control
+  value: no-cache
+  id: null
+- enabled: true
+  name: origin
+  value: https://web-staging.zenify.vn
+  id: null
+- enabled: true
+  name: pragma
+  value: no-cache
+  id: null
+- enabled: true
+  name: priority
+  value: u=1, i
+  id: null
+- enabled: true
+  name: referer
+  value: https://web-staging.zenify.vn/
+  id: null
+- enabled: true
+  name: sec-ch-ua
+  value: '"Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"'
+  id: null
+- enabled: true
+  name: sec-ch-ua-mobile
+  value: ?0
+  id: null
+- enabled: true
+  name: sec-ch-ua-platform
+  value: '"Windows"'
+  id: null
+- enabled: true
+  name: sec-fetch-dest
+  value: empty
+  id: null
+- enabled: true
+  name: sec-fetch-mode
+  value: cors
+  id: null
+- enabled: true
+  name: sec-fetch-site
+  value: same-site
+  id: null
+- enabled: true
+  name: user-agent
+  value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+  id: null
+method: GET
+name: ''
+sortPriority: 0.0
+url: ${[ HOST ]}/gen-qr-login
+urlParameters:
+- enabled: true
+  name: id
+  value: 67d7f186534b2b36cf10c230
+  id: null
